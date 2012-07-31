@@ -1,2 +1,7 @@
 A custom application to analyze log files and generate statistical information which could be used for making business decisions. 
  
+The Text Files - 0,1,2,3,4.txt are sample input files.
+
+DriverHello.java - Driver class for MapReduce job
+HelloMapper.java - Mapper class for MapReduce job
+ReducerHello.java - Reduce class for MapReduce job
